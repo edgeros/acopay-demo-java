@@ -1,0 +1,13 @@
+server:
+  port: 8000
+
+# Spring
+spring:
+  application:
+    # 应用名称
+    name: acopay-demo
+  profiles:
+    active: @profiles.active@
+logging:
+  level:
+    ROOT: INFO

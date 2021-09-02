@@ -1,0 +1,7 @@
+acopay:
+  mchNo: #your merchant number
+  appNo: #your APP number
+  mchPrivateKey: #your private key
+  acopayPublicKey: #acopay public key
+  tradeNotifyUrl: #your trade notify url
+  refundNotifyUrl: #your refund notify url
