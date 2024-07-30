@@ -1,8 +1,8 @@
 # Acopay demo for Java
   
-- [产品官网](https://www.edgeros.com/edgeros/acopay/)   
-- [SDK 说明](https://www.edgeros.com/edgeros/acopay/sdk/java/overview.html)    
-- [API 文档](https://www.edgeros.com/edgeros/acopay/api/overview.html)  
+- [产品官网](https://www.edgeros.com/platform/acopay/overview)   
+- [SDK 说明](https://www.edgeros.com/platform/api_reference/acopay/sdk/java_sdk/overview)    
+- [API 文档](https://www.edgeros.com/platform/api_reference/acopay/api/)  
 - SDK 源码请参见 [GitHub SDK](https://github.com/edgeros/acopay-sdk-java) 或 [Gitee SDK](https://gitee.com/edgeros/acopay-sdk-java) 
 
 ## 说明
